@@ -51,9 +51,9 @@ I am actively contributing and tracking my progress towards my development goals
 ---
 
 #### 🌐 Connect With Me
-* **Email:** [Aapka Email Address Yahan Likhen]
-* **LinkedIn:** [Aapka LinkedIn Profile Link Yahan Likhen]
-* **GitHub:** [Aapka GitHub Profile Link Yahan Likhen]
+Let's connect to discuss technology, collaborate on projects, or share learning resources!
+
+**📧 Email:**  **🔗 LinkedIn:**  **💻 GitHub:** 
 
 ---
 > "The best way to predict the future is to create it."
